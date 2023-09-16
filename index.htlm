@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Mi Proyecto Universitario</title>
+</head>
+<body>
+    <header>
+        <h1>Mi Proyecto Universitario</h1>
+        <nav>
+            <ul>
+                <li><a href="#categoria1">Categoría 1</a></li>
+                <li><a href="#categoria2">Categoría 2</a></li>
+                <li><a href="#categoria3">Categoría 3</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="categoria1">
+            <h2>Categoría 1</h2>
+            <p>Información relevante sobre la Categoría 1 de mi proyecto universitario.</p>
+        </section>
+
+        <section id="categoria2">
+            <h2>Categoría 2</h2>
+            <p>Detalles importantes relacionados con la Categoría 2 de mi proyecto.</p>
+        </section>
+
+        <section id="categoria3">
+            <h2>Categoría 3</h2>
+            <p>Exploración de la Categoría 3 y sus aspectos destacados en el proyecto.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Mi Proyecto Universitario</p>
+    </footer>
+</body>
+</html>
